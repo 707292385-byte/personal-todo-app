@@ -1,0 +1,12 @@
+{
+  "name": "todo-mobile",
+  "version": "1.0.0",
+  "description": "移动端工作记录待办应用（口令保护，JSON 文件存储）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

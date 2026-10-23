@@ -1,0 +1,8 @@
+{
+  "name": "工作记录",
+  "short_name": "工作记录",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f5",
+  "theme_color": "#0f766e"
+}
